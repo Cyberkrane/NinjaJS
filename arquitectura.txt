@@ -4,6 +4,7 @@ Requerimientos
 * llevar un registro de gastos fijos y diarios del mes.
 * posibilidad de crear una cuenta para proteger los datos con user y password.
 * hacer uso de git.
+* tambien se crea la rama agosto para ir subiendo cambios este mes. 
 --------------------------------------------------------------
 
 Especificaciones
