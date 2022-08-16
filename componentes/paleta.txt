@@ -1,0 +1,21 @@
+#091E48 azul_oscuro
+#043289 azul_medio
+#043CA7 azul_medioClaro
+#CEB969 mostaza_vieja
+#848C9C gisss 
+
+con rojo
+
+#3C3229
+#6A5C54
+#733722
+#FC5F6A
+#E7242D
+
+con oro
+
+#1e110b
+#6a371c
+#cc925d
+#a74c2a
+#791f06

@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Combinada */
+:root {
+    --bgOscuro: #1e110b;
+    --bgClaro: #6A5C54;
+    --medio: #043CA7;
+    --fontClaro: #FC5F6A;
+    --fontOscuro: #791f06;
+}
+
+::-webkit-scrollbar {
+    scroll-behavior: smooth;
+}
+
+html,
+body {
+    background-color: black;
+    width: 100%;
+    height: 92vh;
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto Mono', monospace;
+}
+
+header {
+    background-color: var(--bgOscuro);
+    color: var(--fontClaro);
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    align-self: center;
+}
+
+.fixed {
+    position: fixed;
+    background-color: var(--bgOscuro);
+
+}
+
+.appCont {
+    position: relative;
+    background-color: var(--bgOscuro);
+    box-shadow: inset var(--bgClaro) 2px -2px 3px, var(--fontOscuro) 3px 3px 25px, var(--fontClaro) 3px 3px 35px;
+    margin: 5% auto;
+    padding: 10px 30px;
+    width: 410px;
+    max-height: 95vh;
+    color: var(--fontClaro);
+    border-radius: 20px;
+    overflow-y: scroll;
+}
+

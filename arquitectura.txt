@@ -1,0 +1,43 @@
+Requerimientos
+
+* mantener a la vista el monto de dinero disponible.
+* llevar un registro de gastos fijos y diarios del mes.
+* posibilidad de crear una cuenta para proteger los datos con                user y password.
+
+--------------------------------------------------------------
+
+Especificaciones
+
+* la app tiene que ser escalable.
+* el codigo tiene que se claro y de facil mantenimiento.
+* el codigo debe estar bien documentado.
+* cada pagina de gastos debe tener un listado de gastos que mantenga los datos guardados, aun cuando la pagina se recargue.
+
+--------------------------------------------------------------
+
+Diseño del soft
+
+* debe estar modularizado.
+
+--------------------------------------------------------------
+
+Flujo del programa
+
+inicio -> localstorage -> user y pass? = no -> login o 										register
+					user y pass? = si -> localstorage -
+ ->monto disponible? = no -> ingresos-page
+			     = si -> home-page -> mostrar saludos al 							    user y el monto 								    disponible.
+
+menu de opciones:
+-> ingresos
+-> gastos fijos
+-> gastos diarios
+
+
+que debe pasar cuando ingreso un monto de dinero?
+
+ese monto debe sumarse al que ya este guardado en el localstorage y mostrarse en la home-page y en cada pagina que lo requiera.
+
+que debe pasar cuando agrego un gasto?
+
+ese gasto debe debitarse del monto total disponible para que este ultimo se mantenga actualizado.

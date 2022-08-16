@@ -1,0 +1,35 @@
+/* Combinada */
+:root{
+    --bgOscuro: #1e110b;
+    --bgClaro: #6A5C54;
+    --medio: #043CA7;
+    --fontClaro: #FC5F6A;
+    --fontOscuro: #791f06;
+}
+
+/* paleta azul */
+/* :root{
+    --bgOscuro: #091E48;
+    --bgClaro: #043289;
+    --medio: #043CA7;
+    --fontClaro: #CEB969;
+    --fontOscuro: #848C9C;
+} */
+
+/* paleta rojo */
+/* :root{
+    --bgOscuro: #3C3229;
+    --bgClaro: #6A5C54;
+    --medio: #733722;
+    --fontClaro: #FC5F6A;
+    --fontOscuro: #E7242D;
+} */
+
+/* paleta oro */
+/* :root{
+    --bgOscuro: #1e110b;
+    --bgClaro: #6a371c;
+    --medio: #cc925d;
+    --fontClaro: #a74c2a;
+    --fontOscuro: #791f06;
+} */
