@@ -2,7 +2,7 @@ Requerimientos
 
 * mantener a la vista el monto de dinero disponible.
 * llevar un registro de gastos fijos y diarios del mes.
-* posibilidad de crear una cuenta para proteger los datos con                user y password.
+* posibilidad de crear una cuenta para proteger los datos con user y password.
 
 --------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Especificaciones
 
 --------------------------------------------------------------
 
-Diseño del soft
+DiseÃ±o del soft
 
 * debe estar modularizado.
 
